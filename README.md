@@ -13,30 +13,29 @@ The goal is to train an AI agent to play Flappy Bird by evolving neural networks
 NEAT integration for evolving neural networks.
 Dynamic network topology adjustments for improved performance.
 Simulation of natural selection to enhance agent proficiency.
-#Getting Started
-**Prerequisites**
+# Getting Started
+### Prerequisites
 Python 3.x
 Pygame library
 NEAT-Python library
-#Installation
+### Installation
 Clone the repository.
 Install the required libraries: pip install pygame neat-python.
-#Usage
+### Usage
 Run python main.py to start the game.
 Press any key to make the bird jump.
 Observe the AI agent's progress in subsequent generations.
-Project Structure
+### Project Structure
 src/ contains the source code files.
 config/ includes NEAT configuration settings.
 assets/ stores game assets like images and sounds.
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any enhancements.
 
-License
+# License
 This project is licensed under the MIT License.
 
 Acknowledgments
 The original Flappy Bird game concept by Dong Nguyen.
+inspiration was taken from tech_with_tim
 NEAT-Python library by CodeReclaimers.
 Contact
-For inquiries, please contact [your email address].
+For inquiries, please contact [raghulchandramouli@gmail.com].
