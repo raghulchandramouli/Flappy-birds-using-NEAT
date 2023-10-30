@@ -3,13 +3,13 @@
 
 
 
-#Flappy Bird with NEAT
+### Flappy Bird with NEAT
 This project implements the classic game Flappy Bird using NEAT (NeuroEvolution of Augmenting Topologies) for AI training.
 
-#Overview
+# Overview
 The goal is to train an AI agent to play Flappy Bird by evolving neural networks. NEAT allows for dynamic network structure changes, optimizing the agent's ability to navigate through the game.
 
-#Features
+# Features
 NEAT integration for evolving neural networks.
 Dynamic network topology adjustments for improved performance.
 Simulation of natural selection to enhance agent proficiency.
