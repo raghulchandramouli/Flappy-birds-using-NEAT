@@ -13,8 +13,8 @@ The goal is to train an AI agent to play Flappy Bird by evolving neural networks
 NEAT integration for evolving neural networks.
 Dynamic network topology adjustments for improved performance.
 Simulation of natural selection to enhance agent proficiency.
-###Getting Started
-Prerequisites
+#Getting Started
+**Prerequisites**
 Python 3.x
 Pygame library
 NEAT-Python library
